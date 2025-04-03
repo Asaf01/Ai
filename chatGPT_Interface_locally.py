@@ -58,4 +58,5 @@ with col2:
 
 # requirments: pip install ,streamlit ,openai ,python-dotenv 
 # .env OPENAI_API_KEY=***********************
+# to run to script - streamlit run *****.py
 
