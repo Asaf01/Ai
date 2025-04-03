@@ -53,3 +53,9 @@ with col2:
     if st.button("Clear Chat"):
         st.session_state.conversation_history = [{"role": "system", "content": "You are a helpful assistant. You can format your responses using Markdown."}]
         st.rerun()  # Updated from experimental_rerun()
+
+
+
+# requirments: pip install ,streamlit ,openai ,python-dotenv 
+# .env OPENAI_API_KEY=***********************
+
